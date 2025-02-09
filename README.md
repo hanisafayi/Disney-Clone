@@ -2,7 +2,7 @@
 
 <a name="introduction">Description</a>
 
-Zuret Car Rental is a Flutter-based mobile application where users can search for available vehicles based on their preferences. Our app provides a catalog of available cars, allowing users to select the desired vehicle. It provides user registration functionality, allowing customers to create accounts. Registered users can manage their bookings. Our app provides real-time information on vehicle availability, enabling customers to check if a particular vehicle is available for their desired rental period. Customers can provide their payment details and complete the booking process.
+Zuret Car Rental is a Flutter-based mobile application where users can search for available vehicles based on their preferences. The app provides a catalog of available cars, allowing users to select the desired vehicle. It provides user registration functionality, allowing customers to create accounts. Registered users can manage their bookings. The app provides real-time information on vehicle availability, enabling customers to check if a particular vehicle is available for their desired rental period. Customers can provide their payment details and complete the booking process.
 
 <a name="tech-stack">Features</a>
 
