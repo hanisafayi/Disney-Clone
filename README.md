@@ -5,6 +5,7 @@
 Zuret Car Rental is a Flutter-based mobile application where users can search for available vehicles based on their preferences. Our app provides a catalog of available cars, allowing users to select the desired vehicle. It provides user registration functionality, allowing customers to create accounts. Registered users can manage their bookings. Our app provides real-time information on vehicle availability, enabling customers to check if a particular vehicle is available for their desired rental period. Customers can provide their payment details and complete the booking process.
 
 <a name="tech-stack">Features</a>
+
 Authentication: Users can create accounts and log in to access the app. Authentication ensures that only registered users can use the app's features.
 Authorization: Differentiates user roles to control access to various features. For example, only admins may have access to certain management functionalities.
 User Registration: New users can register by providing necessary details. This feature helps in creating a personalized experience and enables users to manage their bookings.
